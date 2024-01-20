@@ -1,0 +1,21 @@
+.wrapper
+{
+    background: linear-gradient(#34e89e,#0f3443);
+    height: 100vh;   
+}
+.title-container
+{
+    font-style: italic;
+    font-family: cursive;
+    color: teal;
+}
+.weather__key
+{
+    letter-spacing: 2px;
+    color: wheat;   
+}
+.weather__value
+{
+    letter-spacing: 2px;
+    color: thistle;
+}
